@@ -31,11 +31,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*
 html, body {
-    height: 100vh; /*altura */
+    height: 100vh; --->altura 
 }
-    
+esta linha estava quando so tinha o index.html
+*/
+  
 
 body {
     background-color: var(--color-background);
